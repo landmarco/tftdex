@@ -1,9 +1,9 @@
-muk_minimizer
+tftdex
 =============
 
 
 
-A summarizer primarily for legal opinions and documents
+A probability assitant for Teamfight Tactics
 
 Usage
 -----
@@ -23,4 +23,4 @@ Licence
 Authors
 -------
 
-`muk_minimizer` was written by `Marc Loeffke <marc.loeffke@gmail.com>`_.
+`tftdex` was written by `Marc Loeffke <marc.loeffke@gmail.com>`_.
