@@ -27,7 +27,7 @@ Compatibility
 
 License
 -------
-TFTdex is free (libre) software and licensed with a GPLv3 copyleft license, which means it can be incorporated into any software that is also licensed with GPLv3. If you are using any component of this, I would appreciate it if you would inform me via email <marc.loeffke@gmail.com>.
+TFTdex is free (libre) software and licensed with a GPLv3 copyleft license, which means it can be incorporated into any software that is also licensed with GPLv3. If you are using any component of this, I would appreciate it if you would inform me via `email <marc.loeffke@gmail.com>`.
 
 Authors
 -------
