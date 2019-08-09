@@ -14,15 +14,15 @@ def read(filename):
 
 
 setup(
-    name="muk_minimizer",
+    name="tftdex",
     version="0.1.0",
-    url="https://github.com/borntyping/cookiecutter-pypackage-minimal",
-    license='MIT',
+    url="https://https://github.com/landmarco/tftdex",
+    license='GPLv3',
 
     author="Marc Loeffke",
     author_email="marc.loeffke@gmail.com",
 
-    description="A summarizer primarily for legal opinions and documents",
+    description="A probability visualization assistant for Teamfight Tactics",
     long_description=read("README.rst"),
 
     packages=find_packages(exclude=('tests',)),
@@ -31,7 +31,6 @@ setup(
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
-        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.7',

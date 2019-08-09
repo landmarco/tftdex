@@ -21,6 +21,11 @@ Installation
 
 Requirements
 ^^^^^^^^^^^^
+- Python 3.5
+- Numpy 1.15.4
+- Pandas 0.22.0
+- Plotly 3.6.0
+- ipywidgets 7.4.1
 
 Compatibility
 -------------
