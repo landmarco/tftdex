@@ -16,6 +16,8 @@ If you want to completely account for all parameters, you can include all champi
 
 Now say you claim your expectations transcend arithmetic means. "My expectations require more knowledge of the stats." You devil! You fiend! Very well, there's also an option to show the geometric CDF of your likelihood of a hit after a certain number give number of rolls.
 
+The geometric plot can be especially helpful when you're in a bad spot and essentially need to choose between different types of hail marys. Do you roll down 40 gold in search for the last Aurelion Sol that will give you the power spike you need? Or do you spend 20 of that gold leveling so that you can roll for a higher chance for Aurelion Sol or Karthus?
+
 
 Installation
 ------------
