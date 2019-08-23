@@ -26,17 +26,16 @@ The following section shows how to set up the TFTdex assuming no prior python ex
 To set up your python and notebook environment, the easiest method is to install Anaconda. Visit https://www.anaconda.com/distribution/ and download the Python 3.7 version for your operating system. Follow the instructions to install Anaconda, Python, and jupyter.
 
 Once that is finished, open a terminal window and execute the following command:
+
 ``git clone https://github.com/landmarco/tftdex.git``
 
-If you don't have git, you can instead download this repo here https://github.com/landmarco/tftdex/archive/master.zip then unzip it. Navigate into this directory in your terminal, then execute the following:
+If you don't have git, you can instead download this repo here https://github.com/landmarco/tftdex/archive/master.zip then unzip it. Navigate into this directory in your terminal, then type the following:
 
-```
-conda install pip
+        conda install pip
 
-pip install -r requirements
+        pip install -r requirements
 
-jupyter notebook
-```
+        jupyter notebook
 
 At this point your browser should pop up showing the file list in the tftdex directory. Click on tftdex.ipynb to open the jupyter notebook, then continue to the **Usage** section.
 
