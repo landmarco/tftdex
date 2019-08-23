@@ -5,9 +5,9 @@ The TFTdex is a tool for Teamfight Tactics that shows the probability of finding
 
 The likelihood of finding champions is explored in two different plots. The first plot shows the expected number (arithmetic mean) of champions found after a certain number of rolls, which corresponds to the simplified binomial representation of the problem. The second plot shows the likelihood of at least one hit after a certain number of rolls, which is the geometric representation. The geometric representation is plotted as a cumulative distribution function and also shows the median number of rolls until a hit.
 
-![Imgur](https://i.imgur.com/cDi5clf.png)
+![Imgur](https://i.imgur.com/6ZCesrs.png)
 
-![Imgur](https://i.imgur.com/a3SdkZW.png)
+![Imgur](https://i.imgur.com/9wp1Hem.png)
 
 Installation
 ===========
@@ -49,11 +49,11 @@ Open tftdex.ipynb and run the cell (click inside it and press SHIFT+ENTER) in or
 
 The TFTdex also provides ways to further refine the plots if you would like to include the additional parameters that influence the probability calculations. The expected value displayed is a good starting point for quickly evaluating expected outcomes in game, but it is not precisely representative of the actual likelihoods faced as it is assumes all champions in a shop are available and so does not account for claimed champions being removed from the pool. In order to remove all instances of a desired champion that have already been claimed, you can input the parameters separated by a comma in the textbox for a champion in the format "TIER OF CHAMPION,NUMBER OF CLAIMED CHAMPIONS". For example, say you have two Kennens (a tier 3 champion) and are searching for a third at level 6. After looking through the board you see that there are seven 1-star Kennens (including your two) and two 2-star Kennens claimed, which means there are 13 Kennens removed from the shop pool. You would then input into the Champion A textbox "3,13". Note that the expected values that are then displayed are a lower bound of the true values as they do not account for all the other champions in the same tier that have been claimed and also removed from the shop pool.
 
-![Imgur](https://i.imgur.com/6UdaY1m.png)
+![Imgur](https://i.imgur.com/2lFE6qv.png)
 
 If you want to completely account for all parameters, you can include all champions claimed within a tier in the format "TIER OF CHAMPION, NUMBER OF CLAIMED CHAMPIONS, TOTAL NUMBER OF OTHER CLAIMED CHAMPIONS IN TIER". Continuing the Kennen example, if you took the time to count up all the champions on all boards and found that there are 42 Tier 3 champions claimed (other than the 13 Kennens you've already accounted for), then you would input into the Champion A textbox "3,13,42". Now the displayed values are completely representative of the current game state. Obviously having to count up all the other champions in a tier is a pretty time-consuming process, and I find I only drill down to this level of specificity if I'm looking for tier 4 or 5 champions, there are only three or less players left, or I'm theorycrafting outside of an active game.
 
-![Imgur](https://i.imgur.com/TEy3tJb.png)
+![Imgur](https://i.imgur.com/CVuBIpr.png)
 
 
 License
