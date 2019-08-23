@@ -30,9 +30,9 @@ Once that is finished, open a terminal window and execute the following command:
 
 If you don't have git, you can instead download this repo here https://github.com/landmarco/tftdex/archive/master.zip then unzip it. Navigate into this directory in your terminal, then execute the following:
 
-``conda install pip
-pip install -r requirements
-jupyter notebook``
+``conda install pip``
+``pip install -r requirements``
+``jupyter notebook``
 
 At this point your browser should pop up showing the file list in the tftdex directory. Click on tftdex.ipynb to open the jupyter notebook, then continue to the **Usage** section.
 
