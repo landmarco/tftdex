@@ -32,7 +32,9 @@ If you don't have git, you can instead download this repo here https://github.co
 
 ```
 conda install pip
+
 pip install -r requirements
+
 jupyter notebook
 ```
 
