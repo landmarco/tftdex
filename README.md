@@ -7,7 +7,7 @@ The likelihood of finding champions is explored in two different plots. The firs
 
 ![Imgur](https://i.imgur.com/6ZCesrs.png)
 
-![Imgur](https://i.imgur.com/9wp1Hem.png)
+![Imgur](https://i.imgur.com/aXi6R3w.png)
 
 Installation
 ===========
