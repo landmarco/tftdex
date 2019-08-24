@@ -1,7 +1,7 @@
 TFTdex
 =============
 
-The TFTdex is a tool for Teamfight Tactics that shows the probability of finding desired champions in the shop. The chart is set up to show the expected value of of finding a champion after a certain number of rolls. The TFTdex is intended to be a companion tool that can be usefully accessed during play by keeping input time to a minimum and clearly displaying expected values of finding champions.
+The TFTdex is a tool for Teamfight Tactics that shows the probability of finding desired champions in the shop. It is intended to be a companion tool that can be usefully accessed during play by keeping input time to a minimum and clearly displaying expected values of finding champions.
 
 The likelihood of finding champions is explored in two different plots. The first plot shows the expected number (arithmetic mean) of champions found after a certain number of rolls, which corresponds to the simplified binomial representation of the problem. The second plot shows the likelihood of at least one hit after a certain number of rolls, which is the geometric representation. The geometric representation is plotted as a cumulative distribution function and also shows the median number of rolls until a hit.
 
