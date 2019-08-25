@@ -10,10 +10,10 @@ The likelihood of finding champions is explored in two different plots. The firs
 ![Imgur](https://i.imgur.com/aXi6R3w.png)
 
 Installation
-===========
+-----------
 
-Requirements
-------------
+Requirements:
+
 - Numpy 1.15.4
 - Pandas 0.22.0
 - Plotly 3.6.0
@@ -58,9 +58,9 @@ If you want to completely account for all parameters, you can include all champi
 
 License
 -------
-TFTdex is free (libre) software and licensed with a GPLv3 copyleft license, which means it can be incorporated into any software that is also licensed with GPLv3. If you are using any component of this, I would appreciate it if you would inform me via [email](mailto:marc.loeffke@gmail.com).
+TFTdex is free (libre) software and licensed with a GPLv3 copyleft license, which means it can be incorporated into any software that is also licensed with GPLv3. If you are using any component of this, I would appreciate it if you would inform me via [email](mailto:marc.loeffke+tftdex@gmail.com).
 
 Authors
 -------
 
-`tftdex` was written by [Marc Loeffke](mailto:marc.loeffke@gmail.com).
+TFTdex was written by [Marc Loeffke](mailto:marc.loeffke+tftdex@gmail.com).
